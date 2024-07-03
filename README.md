@@ -12,10 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sudo-Casper&theme=catppuccin_mocha&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudo-Casper&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sudo-Casper&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
-
---
 [![](https://visitcount.itsvg.in/api?id=Sudo-Casper&icon=5&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
