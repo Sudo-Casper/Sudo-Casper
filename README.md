@@ -1,40 +1,5 @@
-<div>
-                                        .,,cccd$$$$$$$$$$$ccc,
-                                    ,cc$$$$$$$$$$$$$$$$$$$$$$$$$cc,
-                                  ,d$$$$$$$$$$$$$$$$"J$$$$$$$$$$$$$$c,
-                                d$$$$$$$$$$$$$$$$$$,$" ,,`?$$$$$$$$$$$$L
-                              ,$$$$$$$$$$$$$$$$$$$$$',J$$$$$$$$$$$$$$$$$b
-                             ,$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$i `$h
-                             $$$$$$$$$$$$$$$$$$$$$$$$$P'  "$$$$$$$$$$$h $$
-                            ;$$$$$$$$$$$$$$$$$$$$$$$$F,$$$h,?$$$$$$$$$$h$F
-                            `$$$$$$$$$$$$$$$$$$$$$$$F:??$$$:)$$$$P",. $$F
-                             ?$$$$$$$$$$$$$$$$$$$$$$(   `$$ J$$F"d$$F,$F
-                              ?$$$$$$$$$$$$$$$$$$$$$h,  :P'J$$F  ,$F,$"
-                               ?$$$$$$$$$$$$$$$$$$$$$$$ccd$$`$h, ",d$
-                                "$$$$$$$$$$$$$$$$$$$$$$$$",cdc $$$$"
-                       ,uu,      `?$$$$$$$$$$$$$$$$$$$$$$$$$$$c$$$$h
-                   .,d$$$$$$$cc,   `$$$$$$$$$$$$$$$$??$$$$$$$$$$$$$$$,
-                 ,d$$$$$$$$$$$$$$$bcccc,,??$$$$$$ccf `"??$$$$??$$$$$$$
-                d$$$$$$$$$$$$$$$$$$$$$$$$$h`?$$$$$$h`:...  d$$$$$$$$P
-               d$$$$$$$$$$$$$$$$$$$$$$$$$$$$`$$$$$$$hc,,cd$$$$$$$$P"
-           =$$?$$$$$$$$P' ?$$$$$$$$$$$$$$$$$;$$$$$$$$$???????",,
-              =$$$$$$F       `"?????$$$$$$$$$$$$$$$$$$$$$$$$$$$$$bc
-              d$$F"?$$k ,ccc$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$i
-       .     ,ccc$$c`""u$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$P",$$$$$$$$$$$$h
-    ,d$$$L  J$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$" `""$$$??$$$$$$$
-  ,d$$$$$$c,"$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$F       `?J$$$$$$$'
- ,$$$$$$$$$$h`$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$F           ?$$$$$$$P""=,
-,$$$F?$$$$$$$ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$F              3$$$$II"?$h,
-$$$$$`$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$P"               ;$$$??$$$,"?"
-$$$$F ?$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$P",z'                3$$h   ?$F
-       `?$$$$$$$$$$$$$$$??$$$$$$$$$PF"',d$P"                  "?$F
-          """""""         ,z$$$$$$$$$$$$$P
-                         J$$$$$$$$$$$$$$F
-                        ,$$$$$$$$$$$$$$F
-                        :$$$$$c?$$$$PF'
-                        `$$$$$$$P
-                         `?$$$$F
-</div>
+## Hi, I'Sudo Casper
+<image>
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
@@ -45,8 +10,6 @@ $$$$F ?$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$P",z'                3$$h   ?$F
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sudo-Casper&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=Sudo-Casper&icon=5&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
