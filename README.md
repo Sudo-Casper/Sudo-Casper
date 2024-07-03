@@ -10,12 +10,13 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sudo-Casper&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
+
+--
 [![](https://visitcount.itsvg.in/api?id=Sudo-Casper&icon=5&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/nicomanci) 
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/nicomanci) 
 
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **Sudo-Casper/Sudo-Casper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
