@@ -1,5 +1,27 @@
+<<<<<<< HEAD
 ## Hi, I'Sudo Casper
-<img src="img/casper_img.png" width="500" alt=""/>
+<svg class="fadeIn" src="img/casper_img.svg">
+  <img align="center" src="img/casper_img.svg">
+</svg>
+<pattern>
+
+<style>
+  .fadeIn {
+    opacity: 0;
+    animation: fadeIn 2s linear 2.8s forwards; infinite;
+  }
+
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+</style>
+</pattern>
+
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
