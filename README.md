@@ -1,8 +1,9 @@
 ## Hi, I'm Sudo Casper
 <svg class="fadeIn">
 
-  <pattern>
   <img align="center" src="img/casper_img.svg" class="fadeIn">
+
+  <pattern>
   </pattern>
   
   <style>
