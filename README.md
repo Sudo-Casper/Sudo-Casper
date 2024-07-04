@@ -1,13 +1,11 @@
-<<<<<<< HEAD
 ## Hi, I'Sudo Casper
-<svg class="fadeIn" src="img/casper_img.svg">
-  <img align="center" src="img/casper_img.svg">
-  <pattern>
+<svg class="fadeIn">
+  <img align="center" src="img/casper_img.svg" class="fadeIn">
 
 <style>
   .fadeIn {
     opacity: 0;
-    animation: fadeIn 2s linear 2.8s forwards; infinite;
+    animation: fadeIn 3s linear 2.8s infinite;
   }
 
   @keyframes fadeIn {
@@ -19,7 +17,7 @@
     }
   }
 </style>
-</pattern>
+
 </svg>
 
 
