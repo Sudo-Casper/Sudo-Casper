@@ -1,9 +1,11 @@
 ## Hi, I'Sudo Casper
 <svg class="fadeIn">
-  <img align="center" src="img/casper_img.svg" class="fadeIn">
+
   <pattern>
+  <img align="center" src="img/casper_img.svg" class="fadeIn">
   </pattern>
-<style>
+  
+  <style>
   .fadeIn {
     opacity: 0;
     animation: fadeIn 3s linear 2.8s infinite;
@@ -18,9 +20,8 @@
     }
   }
 </style>
+
 </svg>
-
-
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
