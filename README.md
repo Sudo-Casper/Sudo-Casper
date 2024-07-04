@@ -1,4 +1,4 @@
-## Hi, I'Sudo Casper
+## Hi, I'm Sudo Casper
 <svg class="fadeIn">
 
   <pattern>
