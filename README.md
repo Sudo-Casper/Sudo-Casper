@@ -1,7 +1,8 @@
 ## Hi, I'Sudo Casper
 <svg class="fadeIn">
   <img align="center" src="img/casper_img.svg" class="fadeIn">
-
+  <pattern>
+  </pattern>
 <style>
   .fadeIn {
     opacity: 0;
@@ -17,7 +18,6 @@
     }
   }
 </style>
-
 </svg>
 
 
