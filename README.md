@@ -1,7 +1,7 @@
 ## Hi, I'm Sudo Casper
 <svg class="fadeIn">
 
-  <img align="center" src="img/casper_img.svg" class="fadeIn">
+  <img src="img/casper_img.svg" class="fadeIn" height="500">
 
   <pattern>
   </pattern>
@@ -9,7 +9,7 @@
   <style>
   .fadeIn {
     opacity: 0;
-    animation: fadeIn 3s linear 2.8s forwards;
+    animation: fadeIn 2.3s linear 2.8s forwards;
   }
 
   @keyframes fadeIn {
