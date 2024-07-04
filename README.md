@@ -2,8 +2,7 @@
 ## Hi, I'Sudo Casper
 <svg class="fadeIn" src="img/casper_img.svg">
   <img align="center" src="img/casper_img.svg">
-</svg>
-<pattern>
+  <pattern>
 
 <style>
   .fadeIn {
@@ -21,6 +20,8 @@
   }
 </style>
 </pattern>
+</svg>
+
 
 
 # 💻 Tech Stack:
