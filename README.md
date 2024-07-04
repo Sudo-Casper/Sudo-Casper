@@ -1,7 +1,7 @@
 ## Hi, I'm Sudo Casper
 <svg class="fadeIn">
 
-  <img src="img/casper_img.svg" class="fadeIn" height="500">
+  <img src="img/casper_img.svg" class="fadeIn" style="max-width: 100%;">
 
   <pattern>
   </pattern>
