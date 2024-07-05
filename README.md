@@ -1,28 +1,9 @@
 ## Hi, I'm Sudo Casper
-<svg class="fadeIn">
 
-  <img src="img/casper_img.svg" class="fadeIn" style="max-width: 100%;">
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2l2bnNnZTVpdXV0ZmR5bGkzdjNkdzNtcHc4eXE5aDJwNXFyZnJ5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/k76eCxLAYwyjyFXClf/giphy.gif" width="200"/>
+</div>
 
-  <pattern>
-  </pattern>
-  
-  <style>
-  .fadeIn {
-    opacity: 0;
-    animation: fadeIn 2.3s linear 2.8s forwards;
-  }
-
-  @keyframes fadeIn {
-    0% {
-      opacity: 0;
-    }
-    100% {
-      opacity: 1;
-    }
-  }
-</style>
-
-</svg>
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
