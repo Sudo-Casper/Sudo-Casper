@@ -2,10 +2,11 @@
 <h1>Bienvenido al GitHub del fantasma</h3>
 </div>
 
-<div id="header" align="center">
+<div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2l2bnNnZTVpdXV0ZmR5bGkzdjNkdzNtcHc4eXE5aDJwNXFyZnJ5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/k76eCxLAYwyjyFXClf/giphy.gif" width="200"/>
 
   [![](https://visitcount.itsvg.in/api?id=Sudo-Casper&icon=5&color=1)](https://visitcount.itsvg.in)
+
 </div>
 
 <div align="left">
@@ -30,3 +31,7 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/nicomanci) 
 
   </div>
+
+<svg>
+<img src="assets/img/Bottom_down.svg">
+</svg>
